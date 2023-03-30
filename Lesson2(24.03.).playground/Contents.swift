@@ -91,7 +91,7 @@ type(of: setOfString)
 setOfChar = ["a"]
 setOfChar.insert("b")
 setOfChar.insert("c")
-//setOfChar = []
+//setOfChar = ["d']
 setOfChar.contains("c")
 
 let someArrayEx = setOfChar.sorted()
